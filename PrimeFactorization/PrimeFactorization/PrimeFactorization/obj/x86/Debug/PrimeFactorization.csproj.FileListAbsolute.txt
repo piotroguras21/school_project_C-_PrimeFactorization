@@ -1,0 +1,16 @@
+C:\Users\User\AppData\Local\Temporary Projects\PrimeFactorization\obj\x86\Debug\PrimeFactorization.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\PrimeFactorization\obj\x86\Debug\PrimeFactorization.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\PrimeFactorization\obj\x86\Debug\PrimeFactorization.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\PrimeFactorization\bin\Debug\PrimeFactorization.exe
+C:\Users\User\AppData\Local\Temporary Projects\PrimeFactorization\bin\Debug\PrimeFactorization.pdb
+C:\Users\User\AppData\Local\Temporary Projects\PrimeFactorization\obj\x86\Debug\PrimeFactorization.exe
+C:\Users\User\AppData\Local\Temporary Projects\PrimeFactorization\obj\x86\Debug\PrimeFactorization.pdb
+C:\Users\User\Desktop\PrimeFactorization\PrimeFactorization\obj\x86\Debug\PrimeFactorization.exe
+C:\Users\User\Desktop\PrimeFactorization\PrimeFactorization\obj\x86\Debug\PrimeFactorization.pdb
+C:\Users\User\Desktop\PrimeFactorization\PrimeFactorization\bin\Debug\PrimeFactorization.exe
+C:\Users\User\Desktop\PrimeFactorization\PrimeFactorization\bin\Debug\PrimeFactorization.pdb
+C:\Users\User\Desktop\PrimeFactorization\PrimeFactorization\obj\x86\Debug\PrimeFactorization.Form1.resources
+C:\Users\User\Desktop\PrimeFactorization\PrimeFactorization\obj\x86\Debug\PrimeFactorization.Properties.Resources.resources
+C:\Users\User\Desktop\PrimeFactorization\PrimeFactorization\obj\x86\Debug\PrimeFactorization.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PrimeFactorization\PrimeFactorization\obj\x86\Debug\PrimeFactorization.Form2.resources
+C:\Users\User\Desktop\PrimeFactorization\PrimeFactorization\obj\x86\Debug\PrimeFactorization.csprojResolveAssemblyReference.cache
